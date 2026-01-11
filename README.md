@@ -2,6 +2,10 @@
 
 A tool to create custom installer NSP files for Nintendo Switch, supporting retro game ROMs and homebrew applications.
 
+Link:
+
+[DOWNLOAD](https://github.com/CNX17/NSP-Auto-Installer-Maker/releases/download/1.4/NSP_Auto_Installer_Maker_1.4.zip)
+
 ## ✨ Features
 - Create forwarder NSPs for homebrew applications
 - Build installer packages for RetroArch game ROMs
