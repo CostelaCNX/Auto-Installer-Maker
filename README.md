@@ -4,7 +4,8 @@ A tool to create custom installer NSP files for Nintendo Switch, supporting retr
 
 Link:
 
-[DOWNLOAD](https://github.com/CNX17/NSP-Auto-Installer-Maker/releases/download/1.4/NSP_Auto_Installer_Maker_v1.4.zip)
+[DOWNLOAD](https://github.com/CNX17/NSP-Auto-Installer-Maker/releases/download/1.5/NSP_Auto_Installer_Maker_v1.5.zip)
+
 
 ## ✨ Features
 - Create forwarder NSPs for homebrew applications
